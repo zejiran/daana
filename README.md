@@ -11,22 +11,21 @@
 
 OS X & Linux:
 
-npm install
+npm install<br>
 npm run dev
 
 Windows:
 
-npm install
+npm install<br>
 npm run dev
 
-## Usage example
+
+## Objective
 Creating a donation/charity portal to solve the issue of scams, where funds are misused.
 Donors can donate and also see where the money donated by them is being used.
 As online charity is too prone to scams , integrating it with a blockchain can solve most of the issues effectively.
 
 
-
-## Development setup
 
 
 
