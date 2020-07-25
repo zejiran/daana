@@ -39,6 +39,16 @@ As online charity is too prone to scams , integrating it with a blockchain can s
 ## Meta
 [https://github.com/ProBeta1/Danaa/] link to repo
 
+## Screenshots
+
+<img src="https://i.ibb.co/LZWxJ2Q/d1.png" alt="d1" border="0">
+
+<img src="https://i.ibb.co/bg8sS3y/d2.png" alt="d2" border="0">
+
+<img src="https://i.ibb.co/Y7Cgdfx/d3.png" alt="d3" border="0">
+
+<img src="https://i.ibb.co/ZGQqLQx/d4.png" alt="d4" border="0">
+
 ## Contributing
 
 1. Fork it (<https://github.com/ProBeta1/Danaa/fork>)
